@@ -1,0 +1,12 @@
+@media screen and (max-width: 1120px) {
+
+  .sectionOne  {
+    display: flex;
+    flex-direction: column;
+  }
+  .sectionTwo {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+}
